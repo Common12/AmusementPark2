@@ -5,6 +5,10 @@
 <struts>
     <!-- Configuration for the default package. -->
     <package name="default" extends="struts-default">
+        <action name="signup" class="Controller" method="signup">  
+        <result name="success"> /index.html</result>
+        <result name="error"> /error.html</result>
+        </action>
         
     </package>
 </struts>
