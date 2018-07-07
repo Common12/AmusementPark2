@@ -44,6 +44,25 @@
 					<img src="images/mother-and-child.png" alt=""> <a href="tickets.html"><img src="images/discounts.png" alt=""></a>
 				</div>
 				
+                            <div id="section">
+					<h1>rides and attractions</h1>
+					<div>
+						<div class="article">
+							<p>
+								This website template hahs been designed by <a href="http://www.freewebsitetemplates.com/">Free Website Templates</a> for you, for free. You can replace all this text with your own text. You can remove any link to our website from this website template, you're free to use this website template without linking back to us. If you're having problems editing this website template, then don't hesitate to ask for help on the <a href="http://www.freewebsitetemplates.com/forums/">Forums</a>.
+							</p>
+							<ul>
+								<li>
+									<a href="rides.html"><img src="images/swing-ride.jpg" alt=""></a> <span>this is just a place holder</span>
+								</li>
+								<li>
+									<a href="rides.html"><img src="images/family.jpg" alt=""></a> <span>this is just a place holder</span>
+								</li>
+							</ul>
+						</div>
+				
+                            
+                            
 						<div class="aside">
 							<div>
 								<h3>twitter updates</h3>
@@ -123,15 +142,8 @@
 					&copy; Amusement Park 2018. all rights reserved.
 				</p>
 			</div>
+                </div>
+        </div>
 	
 </body>
-</html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
-    </head>
-    <body>
-        <h1>Hello World!</h1>
-    </body>
 </html>
